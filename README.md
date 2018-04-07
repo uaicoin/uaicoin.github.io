@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# The world's first 100% honest crypto currency
 
 You can use the [editor on GitHub](https://github.com/uaicoin/uaicoin.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
