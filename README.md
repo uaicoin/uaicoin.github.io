@@ -1,6 +1,6 @@
-# Welcome :smiley: This is the home of a brand new experimental crypto~~currency~~, totally worthless but quite a journey to get started!
+# This is the home of a new experimental crypto~~currency~~, totally worthless but quite a journey to get started!
 
-This coin does not have a manifesto, a white paper, an incredible team nor anything like that.
+This coin does not have a manifesto, a white paper nor anything like that.
 
 Here and now, I will share with you my journey that got me to this marvelous experiment!
 
@@ -42,12 +42,15 @@ Join the clan here: https://discord.gg/r6FNtpE
 
 ### Yay, so what now?
 
-- [UaiCoin Website](https://uaicoin.github.io/) - yes you're on it, fantastic right? we can make an ugly HTML page at least :lol:
-- [Discord Community](https://discord.gg/r6FNtpE)
+- [UaiCoin Website](https://uaicoin.github.io/) - fantastic right? at least we can make an ugly HTML page!
+- [Discord Community](https://discord.gg/r6FNtpE) - because we need to share stupid links, logo tentatives and eventually some pieces of code to mine the god damn network!
 - [UaiCoin v0.4.2.3](https://github.com/uaicoin/uaicoin/releases)
-  - Source code and binaries for Windows, Linux and Mac! And it works (theorically..)
-- [Block Explorer](http://dmaillard.one/block-explorer/)
-- [Offline wallet generator](https://uaicoin.github.io/wallet-generator/)
+  - Network daemon - you dont give a shit but guess you will need it
+  - Simple Wallet - command line version, yay we're utterly pre=alpha
+  - Miner - Oh god yeah you will love this one, within a matter of minutes you'll be a millionaire in totally worthless UaiCoin that you can share with us =)
+  - But we're nice, so you've got the choice of Windows, Linux or Mac versions. Or you can compile from source code if you feel like a jedi!
+- [Block Explorer](http://dmaillard.one/block-explorer/) - Mainly to see how young is the network, eventually to debug any problems that may or may not occur (but probably will!)
+- [Offline wallet generator](https://uaicoin.github.io/wallet-generator/) - uh... did I said we're pre-alpha? I thought that a safe paper wallet will be better for you when our network will (eventually) crash... Unless your home burns, then you're in a deep shit...
 - [GitHub repository](https://github.com/uaicoin) - all our buggy projects!
   - https://github.com/uaicoin/uaicoin
   - https://github.com/uaicoin/block-explorer
@@ -57,8 +60,14 @@ Join the clan here: https://discord.gg/r6FNtpE
   - P2P: 18.232.33.114:21897 18.234.17.54:21897
   - RPC: 18.232.33.114:21898 18.234.17.54:21898   
 
-
 ### What? You haven't joined Discord yet?
 
-You probably need another big link =)
-# https://discord.gg/r6FNtpE
+You probably need a very big link!
+
+# [https://discord.gg/r6FNtpE](https://discord.gg/r6FNtpE)
+
+### Wow, your project seems incredibly ambitious and organized by a team of highly qualified blokes, how can I get scammed quickly?
+
+We don't run a scammy ICO, but we welcome your massive donations. For donations we do NOT accept our own coin, it's litterally a worthless piece of code running on servers for now right....
+
+We exclusively accept real money like Monero, Bitcoin, Litecoin - the real stuff right =) And no, we don't accept paper money, because we would need to go at the post office to get your package and it's a waste of time ;p 
