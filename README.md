@@ -2,7 +2,7 @@
 
 This coin does not have a manifesto, a white paper nor anything like that.
 
-Here and now, I will share with you my journey that got me to this marvelous experiment!
+Here and now, I will share with you my journey that got me to this marvellous experiment!
 
 ## Your first mission is to [Join our community on Discord!](https://discord.gg/r6FNtpE)
 
