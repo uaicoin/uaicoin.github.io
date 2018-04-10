@@ -2,9 +2,9 @@
 
 This coin does not have a manifesto, a white paper nor anything like that. Here and now, I will share with you my journey that got me to this marvelous experiment!
 
-## Your first mission is to [Join our community on Discord!](https://discord.gg/r6FNtpE)
+Your first mission is to [Join our community on Discord!](https://discord.gg/r6FNtpE)
 
-## How it started...
+## How it all started...
 
 Two small posts in a Discord group and bang, we got it off the ground =)
 
@@ -50,19 +50,9 @@ Join the clan here: https://discord.gg/r6FNtpE
 - [Block Explorer](http://dmaillard.one/block-explorer/) - Mainly to see how young is the network, eventually to debug any problems that may or may not occur (but probably will!)
 - [Offline wallet generator](https://uaicoin.github.io/wallet-generator/) - uh... did I said we're pre-alpha? I thought that a safe paper wallet will be better for you when our network will (eventually) crash... Unless your home burns, then you're in a deep shit...
 - [GitHub repository](https://github.com/uaicoin) - all our buggy projects!
-  - https://github.com/uaicoin/uaicoin
-  - https://github.com/uaicoin/block-explorer
-  - https://github.com/uaicoin/wallet-generator
-  - https://github.com/uaicoin/uaicoin.github.io
 - Seed nodes:
   - P2P: 18.232.33.114:21897 18.234.17.54:21897
   - RPC: 18.232.33.114:21898 18.234.17.54:21898   
-
-## What? You haven't joined Discord yet?
-
-You probably need a very big link!
-
-# [https://discord.gg/r6FNtpE](https://discord.gg/r6FNtpE)
 
 ### Wow, your project seems incredibly ambitious and organized by a team of highly qualified blokes, how can I get scammed quickly?
 
