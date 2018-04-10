@@ -1,12 +1,10 @@
-# This is the home of a new experimental crypto~~currency~~, totally worthless but quite a journey to get started!
+# Experimental crypto~~currency~~, totally worthless
 
-This coin does not have a manifesto, a white paper nor anything like that.
-
-Here and now, I will share with you my journey that got me to this marvellous experiment!
+This coin does not have a manifesto, a white paper nor anything like that. Here and now, I will share with you my journey that got me to this marvelous experiment!
 
 ## Your first mission is to [Join our community on Discord!](https://discord.gg/r6FNtpE)
 
-### How it started...
+## How it started...
 
 Two small posts in a Discord group and bang, we got it off the ground =)
 
@@ -40,7 +38,7 @@ Anybody up to making some stress test and mining a totally worthless coin? I'd l
 Join the clan here: https://discord.gg/r6FNtpE
 ```
 
-### Yay, so what now?
+## Yay, so what now?
 
 - [UaiCoin Website](https://uaicoin.github.io/) - fantastic right? at least we can make an ugly HTML page!
 - [Discord Community](https://discord.gg/r6FNtpE) - because we need to share stupid links, logo tentatives and eventually some pieces of code to mine the god damn network!
@@ -60,7 +58,7 @@ Join the clan here: https://discord.gg/r6FNtpE
   - P2P: 18.232.33.114:21897 18.234.17.54:21897
   - RPC: 18.232.33.114:21898 18.234.17.54:21898   
 
-### What? You haven't joined Discord yet?
+## What? You haven't joined Discord yet?
 
 You probably need a very big link!
 
@@ -72,7 +70,7 @@ We don't run a scammy ICO, but we welcome your massive donations. For donations 
 
 We exclusively accept real money like Monero, Bitcoin, Litecoin - the real stuff right =) And no, we don't accept paper money, because we would need to go at the post office to get your package and it's a waste of time ;p
 
-### Donations
+## Donations
 
 ```markdown
 BTC 19QcG7g87npEqJkRBPzwhL6XytR6stgDFJ
